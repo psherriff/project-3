@@ -6,16 +6,16 @@
         "title": "Dr",
         "first": "Joss",
         "last": "Adams",
-        "specialitytitle": "Radiation Oncologist",
-        "credentials": "FRCR, MRCP, MB, Bchir, BA Hons"
+        "specialityTitle": "Radiation Oncologist",
+        "credentials": ["FRCR", "MRCP", "MB", "Bchir"]
       },
       "location": {
-        "location-name": "Windsor",
+        "locationName": "Windsor",
         "phone": "01753 343 211",
         "email": "enquiries@genesiscare.co.uk",
         "street": "69 Alma Road",
         "city": "Windsor",
-        "post-code": "SL4 3HD",
+        "postCode": "SL4 3HD",
         "country": "UK"
       },
       "picture": {
@@ -28,16 +28,16 @@
         "title": "Mr",
         "first": "Avi",
         "last": "Agrawal",
-        "specialitytitle": "Endocrine Surgeon",
+        "specialityTitle": "Endocrine Surgeon",
         "credentials": "MBBS, MSc, FRCS, FRCSEd"
       },
       "location": {
-        "location-name": "Portsmouth",
+        "locationName": "Portsmouth",
         "phone": "023 9385 1048",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Bartons Road",
         "city": "Havant",
-        "post-code": "PO9 5NA",
+        "postCode": "PO9 5NA",
         "country": "UK"
       },
       "picture": {
@@ -50,16 +50,16 @@
         "title": "Miss",
         "first": "Deepike",
         "last": "Akolekar",
-        "specialitytitle": "Oncoplasic surgeon",
+        "specialityTitle": "Oncoplasic surgeon",
         "credentials": "FRCS, MD"
       },
       "location": {
-        "location-name": "Maidstone",
+        "locationName": "Maidstone",
         "phone": "01732 385 013",
         "email": "enquiries@genesiscare.co.uk",
         "street": "17 Kings Hill Avenue, Kings Hill",
         "city": "West Malling",
-        "post-code": "ME19 4UA",
+        "postCode": "ME19 4UA",
         "country": "UK"
       },
       "picture": {
@@ -72,16 +72,16 @@
         "title": "Dr",
         "first": "Mymoona",
         "last": "Alzouebi",
-        "specialitytitle": "Consultant Clinical Oncologist",
+        "specialityTitle": "Consultant Clinical Oncologist",
         "credentials": "MBChB, MRCP, DTMH"
       },
       "location": {
-        "location-name": "Birmingham",
+        "locationName": "Birmingham",
         "phone": "0121 5812 467",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Little Aston Hall Drive",
         "city": "Sutton Coldfield",
-        "post-code": "B74 3BF",
+        "postCode": "B74 3BF",
         "country": "UK"
       },
       "picture": {
@@ -94,16 +94,16 @@
         "title": "Dr",
         "first": "Jeremy",
         "last": "Braybrooke",
-        "specialitytitle": "Medical Oncologist",
+        "specialityTitle": "Medical Oncologist",
         "credentials": "BSc, BM, PhD, FRCP"
       },
       "location": {
-        "location-name": "Windsor",
+        "locationName": "Windsor",
         "phone": "01753 343 211",
         "email": "enquiries@genesiscare.co.uk",
         "street": "69 Alma Road",
         "city": "Windsor",
-        "post-code": "SL4 3HD",
+        "postCode": "SL4 3HD",
         "country": "UK"
       },
       "picture": {
@@ -116,16 +116,16 @@
         "title": "Mr",
         "first": "Phillip",
         "last": "Charlesworth",
-        "specialitytitle": "Urological Surgeon",
+        "specialityTitle": "Urological Surgeon",
         "credentials": "BM DM FRCS (Urol.)"
       },
       "location": {
-        "location-name": "Nottingham",
+        "locationName": "Nottingham",
         "phone": "0115 759 0011",
         "email": "enquiries@genesiscare.co.uk",
         "street": "The Park Centre for Oncology",
         "city": "Nottingham",
-        "post-code": "NG5 8RX",
+        "postCode": "NG5 8RX",
         "country": "UK"
       },
       "picture": {
@@ -138,16 +138,16 @@
         "title": "Dr",
         "first": "Nicola",
         "last": "Dallas",
-        "specialitytitle": "Clinical Oncologist",
+        "specialityTitle": "Clinical Oncologist",
         "credentials": "MBChB, MRCP, FRCR"
       },
       "location": {
-        "location-name": "Oxford",
+        "locationName": "Oxford",
         "phone": "01865 706 094",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Peters Way, Sandy West Lane",
         "city": "Oxford",
-        "post-code": "OX4 6LB",
+        "postCode": "OX4 6LB",
         "country": "UK"
       },
       "picture": {
@@ -160,16 +160,16 @@
         "title": "Dr",
         "first": "Maisam",
         "last": "Fazel",
-        "specialitytitle": "Urological Surgeon",
+        "specialityTitle": "Urological Surgeon",
         "credentials": "MBBChir, MA (Cantab) MSEd FRCS"
       },
       "location": {
-        "location-name": "Oxford",
+        "locationName": "Oxford",
         "phone": "01865 706 094",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Peters Way, Sandy West Lane",
         "city": "Oxford",
-        "post-code": "OX4 6LB",
+        "postCode": "OX4 6LB",
         "country": "UK"
       },
       "picture": {
@@ -182,16 +182,16 @@
         "title": "Dr",
         "first": "Alice",
         "last": "Freebairn",
-        "specialitytitle": "Clinical Oncologist",
+        "specialityTitle": "Clinical Oncologist",
         "credentials": "BSc, MBBS, MRCP, FRCR, CCST"
       },
       "location": {
-        "location-name": "Windsor",
+        "locationName": "Windsor",
         "phone": "01753 343 211",
         "email": "enquiries@genesiscare.co.uk",
         "street": "69 Alma Road",
         "city": "Windsor",
-        "post-code": "SL4 3HD",
+        "postCode": "SL4 3HD",
         "country": "UK"
       },
       "picture": {
@@ -204,16 +204,16 @@
         "title": "Dr",
         "first": "Andy",
         "last": "Gaya",
-        "specialitytitle": "Clinical Oncologist",
+        "specialityTitle": "Clinical Oncologist",
         "credentials": "BSc, MB BS, MRCP, FRCR, MD"
       },
       "location": {
-        "location-name": "Oxford",
+        "locationName": "Oxford",
         "phone": "01865 706 094",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Peters Way, Sandy West Lane",
         "city": "Oxford",
-        "post-code": "OX4 6LB",
+        "postCode": "OX4 6LB",
         "country": "UK"
       },
       "picture": {
@@ -226,16 +226,16 @@
         "title": "Dr",
         "first": "Karin",
         "last": "Hellner",
-        "specialitytitle": "Gynaecologist",
+        "specialityTitle": "Gynaecologist",
         "credentials": "FMD, PhD"
       },
       "location": {
-        "location-name": "Maidstone",
+        "locationName": "Maidstone",
         "phone": "01732 385 013",
         "email": "enquiries@genesiscare.co.uk",
         "street": "17 Kings Hill Avenue, Kings Hill",
         "city": "West Malling",
-        "post-code": "ME19 4UA",
+        "postCode": "ME19 4UA",
         "country": "UK"
       },
       "picture": {
@@ -248,16 +248,16 @@
         "title": "Dr",
         "first": "Crispin",
         "last": "Hiley",
-        "specialitytitle": "Consultant Clinical Oncologist",
+        "specialityTitle": "Consultant Clinical Oncologist",
         "credentials": "BSc (HONS.) MBChB (HONS.) PGDIP PHD MRCP FRCR"
       },
       "location": {
-        "location-name": "Maidstone",
+        "locationName": "Maidstone",
         "phone": "01732 385 013",
         "email": "enquiries@genesiscare.co.uk",
         "street": "17 Kings Hill Avenue, Kings Hill",
         "city": "West Malling",
-        "post-code": "ME19 4UA",
+        "postCode": "ME19 4UA",
         "country": "UK"
       },
       "picture": {
@@ -270,16 +270,16 @@
         "title": "Dr",
         "first": "Simon",
         "last": "Lord",
-        "specialitytitle": "Medical Oncologist",
+        "specialityTitle": "Medical Oncologist",
         "credentials": "BM BS MRCP DPhil"
       },
       "location": {
-        "location-name": "Portsmouth",
+        "locationName": "Portsmouth",
         "phone": "023 9385 1048",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Bartons Road",
         "city": "Havant",
-        "post-code": "PO9 5NA",
+        "postCode": "PO9 5NA",
         "country": "UK"
       },
       "picture": {
@@ -292,16 +292,16 @@
         "title": "Dr",
         "first": "Alan",
         "last": "Makepeace",
-        "specialitytitle": "Clinical Oncologist",
+        "specialityTitle": "Clinical Oncologist",
         "credentials": "FRCR, FRCS, FRCS (Ed)"
       },
       "location": {
-        "location-name": "Maidstone",
+        "locationName": "Maidstone",
         "phone": "01732 385 013",
         "email": "enquiries@genesiscare.co.uk",
         "street": "17 Kings Hill Avenue, Kings Hill",
         "city": "West Malling",
-        "post-code": "ME19 4UA",
+        "postCode": "ME19 4UA",
         "country": "UK"
       },
       "picture": {
@@ -314,16 +314,16 @@
         "title": "Dr",
         "first": "Jenny",
         "last": "Nobes",
-        "specialitytitle": "Radiation Oncologist",
+        "specialityTitle": "Radiation Oncologist",
         "credentials": "BMedSci MBBS MRCP FRCR"
       },
       "location": {
-        "location-name": "Nottingham",
+        "locationName": "Nottingham",
         "phone": "0115 759 0011",
         "email": "enquiries@genesiscare.co.uk",
         "street": "The Park Centre for Oncology",
         "city": "Nottingham",
-        "post-code": "NG5 8RX",
+        "postCode": "NG5 8RX",
         "country": "UK"
       },
       "picture": {
@@ -336,16 +336,16 @@
         "title": "Ms",
         "first": "Gaural",
         "last": "Patel",
-        "specialitytitle": "Breast & General Surgeon",
+        "specialityTitle": "Breast & General Surgeon",
         "credentials": "BA (Hons), MBChB, MRCS, FRCS"
       },
       "location": {
-        "location-name": "Birmingham",
+        "locationName": "Birmingham",
         "phone": "0121 5812 467",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Little Aston Hall Drive",
         "city": "Sutton Coldfield",
-        "post-code": "B74 3BF",
+        "postCode": "B74 3BF",
         "country": "UK"
       },
       "picture": {
@@ -358,16 +358,16 @@
         "title": "Dr",
         "first": "Andrew",
         "last": "Protheroe",
-        "specialitytitle": "Medical Oncologist",
+        "specialityTitle": "Medical Oncologist",
         "credentials": "MBBS, FRCP, PhD"
       },
       "location": {
-        "location-name": "Birmingham",
+        "locationName": "Birmingham",
         "phone": "0121 5812 467",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Little Aston Hall Drive",
         "city": "Sutton Coldfield",
-        "post-code": "B74 3BF",
+        "postCode": "B74 3BF",
         "country": "UK"
       },
       "picture": {
@@ -380,16 +380,16 @@
         "title": "Dr",
         "first": "Sanjay",
         "last": "Raj",
-        "specialitytitle": "Clinical Oncologist",
+        "specialityTitle": "Clinical Oncologist",
         "credentials": "MBBS, MRCP, FRCR"
       },
       "location": {
-        "location-name": "Windsor",
+        "locationName": "Windsor",
         "phone": "01753 343 211",
         "email": "enquiries@genesiscare.co.uk",
         "street": "69 Alma Road",
         "city": "Windsor",
-        "post-code": "SL4 3HD",
+        "postCode": "SL4 3HD",
         "country": "UK"
       },
       "picture": {
@@ -402,16 +402,16 @@
         "title": "Dr",
         "first": "Ralph",
         "last": "Rogers",
-        "specialitytitle": "Radiation Oncologist",
+        "specialityTitle": "Radiation Oncologist",
         "credentials": ["MD", "PhD", "MBA", "FACSM", "FFSEM"]
       },
       "location": {
-        "location-name": "Oxford",
+        "locationName": "Oxford",
         "phone": "01865 706 094",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Peters Way, Sandy West Lane",
         "city": "Oxford",
-        "post-code": "OX4 6LB",
+        "postCode": "OX4 6LB",
         "country": "UK"
       },
       "picture": {
@@ -424,16 +424,16 @@
         "title": "Dr",
         "first": "Tim",
         "last": "Robinson",
-        "specialitytitle": "Medical Oncologist",
+        "specialityTitle": "Medical Oncologist",
         "credentials": "BMedSci (Hons) BMBS (Hons) PgDip (Onc) PhD FHEA MRCP (Onc)"
       },
       "location": {
-        "location-name": "Nottingham",
+        "locationName": "Nottingham",
         "phone": "0115 759 0011",
         "email": "enquiries@genesiscare.co.uk",
         "street": "The Park Centre for Oncology",
         "city": "Nottingham",
-        "post-code": "NG5 8RX",
+        "postCode": "NG5 8RX",
         "country": "UK"
       },
       "picture": {
@@ -446,16 +446,16 @@
         "title": "Dr",
         "first": "Ami",
         "last": "Sabharwal",
-        "specialitytitle": "Radiation Oncologist",
+        "specialityTitle": "Radiation Oncologist",
         "credentials": "BSc (Hons), MBBS, MRCP, FRCR, MD"
       },
       "location": {
-        "location-name": "Maidstone",
+        "locationName": "Maidstone",
         "phone": "01732 385 013",
         "email": "enquiries@genesiscare.co.uk",
         "street": "17 Kings Hill Avenue, Kings Hill",
         "city": "West Malling",
-        "post-code": "ME19 4UA",
+        "postCode": "ME19 4UA",
         "country": "UK"
       },
       "picture": {
@@ -468,16 +468,16 @@
         "title": "Dr",
         "first": "Wasiru",
         "last": "Saka",
-        "specialitytitle": "Medical Oncologist",
+        "specialityTitle": "Medical Oncologist",
         "credentials": "MBChB, MRCP, MRCP"
       },
       "location": {
-        "location-name": "Oxford",
+        "locationName": "Oxford",
         "phone": "01865 706 094",
         "email": "enquiries@genesiscare.co.uk",
         "street": "Peters Way, Sandy West Lane",
         "city": "Oxford",
-        "post-code": "OX4 6LB",
+        "postCode": "OX4 6LB",
         "country": "UK"
       },
       "picture": {
@@ -490,16 +490,16 @@
         "title": "Professor",
         "first": "Joss",
         "last": "Hughes",
-        "specialitytitle": "Haematologist",
+        "specialityTitle": "Haematologist",
         "credentials": "MD, PhD, MRCP, FRCPath"
       },
       "location": {
-        "location-name": "Nottingham",
+        "locationName": "Nottingham",
         "phone": "0115 759 0011",
         "email": "enquiries@genesiscare.co.uk",
         "street": "The Park Centre for Oncology",
         "city": "Nottingham",
-        "post-code": "NG5 8RX",
+        "postCode": "NG5 8RX",
         "country": "UK"
       },
       "picture": {
@@ -512,16 +512,16 @@
         "title": "Dr",
         "first": "Katie",
         "last": "Wood",
-        "specialitytitle": "Consultant Clinical Oncologist",
+        "specialityTitle": "Consultant Clinical Oncologist",
         "credentials": "MA MBBS MD(Res) FRCR"
       },
       "location": {
-        "location-name": "Nottingham",
+        "locationName": "Nottingham",
         "phone": "0115 759 0011",
         "email": "enquiries@genesiscare.co.uk",
         "street": "The Park Centre for Oncology",
         "city": "Nottingham",
-        "post-code": "NG5 8RX",
+        "postCode": "NG5 8RX",
         "country": "UK"
       },
       "picture": {
