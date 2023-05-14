@@ -1,8 +1,49 @@
-main {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 20px;
+@font-face {
+  font-family: "GCFont";
+  src: url("https://www.genesiscare.com/content/dam/genesiscare/genesiscaresans-light-webfont.woff")format(woff);
+
 }
+
+@font-face {
+  font-family: "GCFontBold";
+  src: url("https://www.genesiscare.com/content/dam/genesiscare/genesiscaresans-bold-webfont.woff")format(woff);
+}
+
+main {
+  margin: 100px;
+  height: 50vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-rows: 500px 500px 500px 500px;
+  grid-gap: 20px;
+
+}
+
+header {
+  display: flex;
+  align-items:center;
+  justify-content: end;
+  background-color: #D4D3D3;
+  font-family: 'GCFont'
+}
+
+.top-navigation-inner {
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  font-family: 'GCFont'
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'GCFont'
+}
+
 
 img#headshot {
   border-radius: 50%;
