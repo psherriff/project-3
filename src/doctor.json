@@ -7,7 +7,7 @@
         "first": "Joss",
         "last": "Adams",
         "specialityTitle": "Radiation Oncologist",
-        "credentials": ["FRCR", "MRCP", "MB", "Bchir"]
+        "credentials": ["FRCR ", "MRCP ", "MB ", "Bchir "]
       },
       "location": {
         "locationName": "Windsor",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "speciality": "Radiation Oncology",
+      "speciality": "Medical Oncology",
       "name": {
         "title": "Dr",
         "first": "Jeremy",

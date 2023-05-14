@@ -3,7 +3,7 @@ const TopNav = () => {
     <header>
       <div className="top-navigation">
         <div className="top-navigation-inner">
-          <div>Our doctors</div>
+          <div>Our doctors </div>
           <div>Our locations</div>
         </div>
       </div>
