@@ -69,7 +69,8 @@ button {
 
 img#headshot {
   border-radius: 50%;
-  width: 60%;
+  width: 35%;
+  margin: 20px;
   height: auto;
   background-color: #fafafa;
 }
@@ -111,6 +112,8 @@ img#headshot {
   height: 400px;
   transform-style: preserve-3d;
   transition: transform 0.5s;
+  /* Optional: Add margin or padding if needed */
+  margin: 10px;
 }
 
 .doctor.flipped {
@@ -119,7 +122,10 @@ img#headshot {
 
 .card-front,
 .card-back {
+  display: grid;
+  justify-content: space-between;
   position: absolute;
+  background-color: #fafafa;
   top: 0;
   left: 0;
   backface-visibility: hidden;
