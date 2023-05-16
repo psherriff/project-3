@@ -29,7 +29,7 @@
         "first": "Avi",
         "last": "Agrawal",
         "specialityTitle": "Endocrine Surgeon",
-        "credentials": ["MBBS", "MSc", "FRCS", "FRCSEd"]
+        "credentials": ["MBBS ", "MSc ", "FRCS ", "FRCSEd "]
       },
       "location": {
         "locationName": "Portsmouth",
@@ -51,7 +51,7 @@
         "first": "Deepike",
         "last": "Akolekar",
         "specialityTitle": "Oncoplasic surgeon",
-        "credentials": ["FRCS", "MD"]
+        "credentials": ["FRCS ", "MD "]
       },
       "location": {
         "locationName": "Maidstone",
@@ -73,7 +73,7 @@
         "first": "Mymoona",
         "last": "Alzouebi",
         "specialityTitle": "Consultant Clinical Oncologist",
-        "credentials": ["MBChB", "MRCP", "DTMH"]
+        "credentials": ["MBChB ", "MRCP ", "DTMH "]
       },
       "location": {
         "locationName": "Birmingham",
@@ -95,7 +95,7 @@
         "first": "Jeremy",
         "last": "Braybrooke",
         "specialityTitle": "Medical Oncologist",
-        "credentials": ["BSc", "FRCP"]
+        "credentials": ["BSc ", "FRCP "]
       },
       "location": {
         "locationName": "Windsor",
@@ -117,7 +117,7 @@
         "first": "Phillip",
         "last": "Charlesworth",
         "specialityTitle": "Urological Surgeon",
-        "credentials": ["BM", "DM", "FRCS"]
+        "credentials": ["BM ", "DM ", "FRCS "]
       },
       "location": {
         "locationName": "Nottingham",
@@ -139,7 +139,7 @@
         "first": "Nicola",
         "last": "Dallas",
         "specialityTitle": "Clinical Oncologist",
-        "credentials": ["MBChB", "MRCP", "FRCR"]
+        "credentials": ["MBChB ", "MRCP ", "FRCR "]
       },
       "location": {
         "locationName": "Oxford",
@@ -161,7 +161,7 @@
         "first": "Maisam",
         "last": "Fazel",
         "specialityTitle": "Urological Surgeon",
-        "credentials": ["MBBChir", "MA", "MSEd", "FRCS"]
+        "credentials": ["MBBChir ", "MA ", "MSEd ", "FRCS "]
       },
       "location": {
         "locationName": "Oxford",
@@ -183,7 +183,7 @@
         "first": "Alice",
         "last": "Freebairn",
         "specialityTitle": "Clinical Oncologist",
-        "credentials": ["BSc", "MBBS", "MRCP", "FRCR", "CCST"]
+        "credentials": ["BSc ", "MBBS ", "MRCP "]
       },
       "location": {
         "locationName": "Windsor",
@@ -205,7 +205,7 @@
         "first": "Andy",
         "last": "Gaya",
         "specialityTitle": "Clinical Oncologist",
-        "credentials": ["BSc", "MB", "BS", "MRCP", "FRCR", "MD"]
+        "credentials": ["BSc ", "MB "]
       },
       "location": {
         "locationName": "Oxford",
@@ -227,7 +227,7 @@
         "first": "Karin",
         "last": "Hellner",
         "specialityTitle": "Gynaecologist",
-        "credentials": ["FMD", "PhD"]
+        "credentials": ["FMD ", "PhD "]
       },
       "location": {
         "locationName": "Maidstone",
@@ -249,7 +249,7 @@
         "first": "Crispin",
         "last": "Hiley",
         "specialityTitle": "Consultant Clinical Oncologist",
-        "credentials": ["BSc", "MBChB", "PGDIP", "PHD", "MRCP", "FRCR"]
+        "credentials": ["BSc ", "MBChB ", "PGDIP "]
       },
       "location": {
         "locationName": "Maidstone",
@@ -271,7 +271,7 @@
         "first": "Simon",
         "last": "Lord",
         "specialityTitle": "Medical Oncologist",
-        "credentials": ["BM", "BS", "MRCP", "DPhil"]
+        "credentials": ["BM ", "BS ", "MRCP ", "DPhil "]
       },
       "location": {
         "locationName": "Portsmouth",
@@ -293,7 +293,7 @@
         "first": "Alan",
         "last": "Makepeace",
         "specialityTitle": "Clinical Oncologist",
-        "credentials": "FRCR, FRCS, FRCS (Ed)"
+        "credentials": ["FRCR ", "FRCS ", "FRCS"]
       },
       "location": {
         "locationName": "Maidstone",
@@ -315,7 +315,7 @@
         "first": "Jenny",
         "last": "Nobes",
         "specialityTitle": "Radiation Oncologist",
-        "credentials": ["BMedSci", "MBBS", "MRCP", "FRCR"]
+        "credentials": ["BMedSci ", "MBBS ", "MRCP ", "FRCR"]
       },
       "location": {
         "locationName": "Nottingham",
@@ -337,7 +337,7 @@
         "first": "Gaural",
         "last": "Patel",
         "specialityTitle": "Breast & General Surgeon",
-        "credentials": ["BA", "MBChB", "MRCS", "FRCS"]
+        "credentials": ["BA ", "MBChB ", "MRCS ", "FRCS"]
       },
       "location": {
         "locationName": "Birmingham",
@@ -359,7 +359,7 @@
         "first": "Andrew",
         "last": "Protheroe",
         "specialityTitle": "Medical Oncologist",
-        "credentials": ["MBBS", "FRCP", "PhD"]
+        "credentials": ["MBBS ", "FRCP ", "PhD "]
       },
       "location": {
         "locationName": "Birmingham",
@@ -381,7 +381,7 @@
         "first": "Sanjay",
         "last": "Raj",
         "specialityTitle": "Clinical Oncologist",
-        "credentials": ["MBBS", "MRCP", "FRCR"]
+        "credentials": ["MBBS ", "MRCP ", "FRCR "]
       },
       "location": {
         "locationName": "Windsor",
@@ -403,7 +403,7 @@
         "first": "Ralph",
         "last": "Rogers",
         "specialityTitle": "Radiation Oncologist",
-        "credentials": ["MD", "PhD", "MBA", "FACSM", "FFSEM"]
+        "credentials": ["MD ", "PhD ", "MBA ", "FACSM ", "FFSEM "]
       },
       "location": {
         "locationName": "Oxford",
@@ -425,7 +425,7 @@
         "first": "Tim",
         "last": "Robinson",
         "specialityTitle": "Medical Oncologist",
-        "credentials": ["BMedSci", "BMBS", "PgDip", "PhD", "FHEA", "MRCP"]
+        "credentials": ["BMedSci ", "BMBS "]
       },
       "location": {
         "locationName": "Nottingham",
@@ -447,7 +447,7 @@
         "first": "Ami",
         "last": "Sabharwal",
         "specialityTitle": "Radiation Oncologist",
-        "credentials": ["BSc", "MBBS", "MRCP", "FRCR", "MD"]
+        "credentials": ["BSc ", "MBBS ", "MRCP ", "FRCR ", "MD "]
       },
       "location": {
         "locationName": "Maidstone",
@@ -469,7 +469,7 @@
         "first": "Wasiru",
         "last": "Saka",
         "specialityTitle": "Medical Oncologist",
-        "credentials": ["MBChB", "MRCP", "MRCP"]
+        "credentials": ["MBChB ", "MRCP ", "MRCP "]
       },
       "location": {
         "locationName": "Oxford",
@@ -491,7 +491,7 @@
         "first": "Joss",
         "last": "Hughes",
         "specialityTitle": "Haematologist",
-        "credentials": ["MD", "PhD", "MRCP", "FRCPath"]
+        "credentials": ["MD ", "PhD ", "MRCP ", "FRCPath "]
       },
       "location": {
         "locationName": "Nottingham",
@@ -513,7 +513,7 @@
         "first": "Katie",
         "last": "Wood",
         "specialityTitle": "Consultant Clinical Oncologist",
-        "credentials": ["MA", "MBBS", "MD", "FRCR"]
+        "credentials": ["MA ", "MBBS ", "MD ", "FRCR "]
       },
       "location": {
         "locationName": "Nottingham",

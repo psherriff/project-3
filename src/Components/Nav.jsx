@@ -6,6 +6,7 @@ const Navigation = () => {
         alt="logo"
       />
       <div>Cancer care </div>
+      <div>Diagnostics </div>
       <div>Clinical trials</div>
       <div>Patient support</div>
       <div>About us</div>
