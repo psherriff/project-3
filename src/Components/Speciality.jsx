@@ -2,22 +2,22 @@ const Speciality = (props) => {
   let color
   switch (props.speciality) {
     case 'Radiation Oncology':
-      color = 'red'
+      color = '#c66ba8'
       break
     case 'Surgery':
-      color = 'orange'
+      color = '#ea5d67'
       break
     case 'Medical Oncology':
-      color = 'blue'
+      color = '#1e7966'
       break
     case 'Gynaecology':
-      color = 'purple'
+      color = '#31a2de'
       break
     case 'Haematology':
-      color = 'green'
+      color = '#f48d32'
       break
     default:
-      color = 'grey'
+      color = '#726f69'
   }
   return (
     <h4
