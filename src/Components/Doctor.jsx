@@ -25,7 +25,7 @@ const Doctor = (props) => {
           <h3>{props.doctor.name.credentials}</h3>
         </div>
         <div className="speciality">
-          <Speciality speciality={props.speciality} />
+          <Speciality speciality={props.doctor.speciality} />
         </div>
       </div>
       <div className="card-back">

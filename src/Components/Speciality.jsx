@@ -17,10 +17,10 @@ const Speciality = (props) => {
       color = 'green'
       break
     default:
-      color = 'gray'
+      color = 'grey'
   }
   return (
-    <span
+    <h4
       style={{
         backgroundColor: color,
         color: 'black',
@@ -30,7 +30,7 @@ const Speciality = (props) => {
       }}
     >
       {props.speciality}
-    </span>
+    </h4>
   )
 }
 

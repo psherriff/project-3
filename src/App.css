@@ -139,5 +139,14 @@ img#headshot {
   font-family: 'GCFontBold';
 }
 
+.speciality {
+  border: none;
+  border-radius: 50px;
+  font-family: 'GCFontBold';
+  font-size: 20px;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+}
 
 
