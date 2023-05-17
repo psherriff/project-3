@@ -25,10 +25,7 @@ const Doctor = (props) => {
           <h3>{props.doctor.name.credentials}</h3>
         </div>
         <div className="speciality">
-          {typeof props.speciality === 'function' &&
-            props.speciality((speciality) => (
-              <Speciality speciality={speciality} />
-            ))}
+          <Speciality speciality={props.speciality} />
         </div>
       </div>
       <div className="card-back">

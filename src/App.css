@@ -112,8 +112,6 @@ img#headshot {
   height: 400px;
   transform-style: preserve-3d;
   transition: transform 0.5s;
-  /* Optional: Add margin or padding if needed */
-  margin: 10px;
 }
 
 .doctor.flipped {
