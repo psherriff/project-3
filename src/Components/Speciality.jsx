@@ -8,7 +8,7 @@ const Speciality = (props) => {
       color = '#ea5d67'
       break
     case 'Medical Oncology':
-      color = '#1e7966'
+      color = '#f48d32'
       break
     case 'Gynaecology':
       color = '#31a2de'

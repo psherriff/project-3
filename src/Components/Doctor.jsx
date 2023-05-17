@@ -21,8 +21,8 @@ const Doctor = (props) => {
             {props.doctor.name.title}
             {props.doctor.name.first} {props.doctor.name.last}
           </h2>
-          <h3>{props.doctor.name.specialityTitle}</h3>
-          <h3>{props.doctor.name.credentials}</h3>
+          <h3 id="font">{props.doctor.name.specialityTitle}</h3>
+          <h3 id="font">{props.doctor.name.credentials}</h3>
         </div>
         <div className="speciality">
           <Speciality speciality={props.doctor.speciality} />
