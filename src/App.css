@@ -88,6 +88,7 @@ img#headshot {
 
 h3 {
   font-size: 20px;
+  font-family: 'GCFontBold';
 }
 
 p {
@@ -183,3 +184,15 @@ footer {
   flex-direction: column;
 }
 
+.container-footer {
+  display: grid;
+  grid-template-columns: 500px 250px 150px;
+  text-align: left;
+  justify-content: center;
+}
+
+img#footer-logo {
+  margin-right: 250px;
+  margin-top: 100px;
+  flex-direction:column-reverse
+}
