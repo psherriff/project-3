@@ -9,6 +9,8 @@
   src: url("https://www.genesiscare.com/content/dam/genesiscare/genesiscaresans-bold-webfont.woff")format(woff);
 }
 
+
+
 main {
   margin: 100px;
   height: 50vh;
@@ -163,4 +165,25 @@ p {
   display: inline-block;
 }
 
+footer {
+  background-color: #716E6A;
+  font-family: "GCFont";
+  color: white;
 
+}
+
+.flex-ctr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header, nav, main, footer {
+  grid-column: span 2;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
