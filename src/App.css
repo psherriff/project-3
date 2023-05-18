@@ -165,21 +165,21 @@ footer {
   background-color: #716E6A;
   font-family: "GCFont";
   color: white;
-
-}
-
-.flex-ctr {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: auto 1fr; /* Adjust the column sizes as needed */
   align-items: center;
-}
-
-header, nav, main, footer {
-  grid-column: span 2;
-}
-
-.flex-container {
-  display: flex;
   justify-content: center;
-  align-items: center;
+  padding: 20px;
 }
+
+.container-footer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.column-footer {
+  display: flex;
+  flex-direction: column;
+}
+
