@@ -9,6 +9,15 @@
   src: url("https://www.genesiscare.com/content/dam/genesiscare/genesiscaresans-bold-webfont.woff")format(woff);
 }
 
+.App {
+    margin: 100px;
+    min-height: calc(100vh - 200px); /* Subtracting header and footer heights */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+
+
 main {
   margin: 100px;
   height: 50vh;
