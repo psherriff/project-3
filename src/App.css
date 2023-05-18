@@ -12,7 +12,7 @@
 main {
   margin: 100px;
   display: grid;
-  grid-template-columns: repeat(6, 1fr); /* Change the number of columns as needed */
+  grid-template-columns: repeat(6, 1fr);
   grid-gap: 20px;
 }
 
@@ -167,7 +167,7 @@ footer {
   font-family: "GCFont";
   color: white;
   display: grid;
-  grid-template-columns: auto 1fr; /* Adjust the column sizes as needed */
+  grid-template-columns: auto 1fr;
   align-items: center;
   justify-content: center;
   padding: 20px;
